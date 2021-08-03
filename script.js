@@ -3,10 +3,12 @@ var resultsContainer = document.getElementById('results');
 var submitButton = document.getElementById('submit');
 var startButton = document.getElementById('start-button');
 var timeLeft = document.getElementById('timeLeft');
-var currentQuestionIndex = 0;
+var currentQuestionIndex = "index";
 startButton.addEventListener('click', startQuiz);
 
-
+function questionIndex() {
+    
+}
 
 function secondsLeft() {
     var timeRemaining = 60;
