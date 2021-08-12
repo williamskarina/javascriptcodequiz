@@ -1,28 +1,10 @@
-body {
-    background: pink;
-}
+#questions,
+#final,
+#highscores,
+#yaynay {
+    display: none;  
+  } 
 
-.start-btn {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-}
-
-.start-btn button {
-    font-size: 20px;
-    font-weight: bold;
-    color: red;
-}
-
-.quiz_section{
-    width: 600px;
-    background: white;
-    border-radius: 6px;
-}
-
-.quiz_section header{
-    height: 60px;
-    padding: 0;
-    display: flex;
-    align-items: center;
+ul.nobullets {
+    list-style-type: none;
 }
