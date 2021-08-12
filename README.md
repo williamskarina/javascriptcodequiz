@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 04 Web APIs: Code Quiz
 
 ## Your Task
@@ -87,3 +88,7 @@ You are required to submit BOTH of the following for review:
 ---
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+# javascriptcodequiz
+Coding Game that includes a timer, a list of questions, feature that tells the player if the answer is correct or incorrect.
+>>>>>>> b06b13285a697be0adf00e4a4ed79cd1efcb564e
