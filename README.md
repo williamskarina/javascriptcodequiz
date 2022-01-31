@@ -1,14 +1,19 @@
-# 04 Web APIs: Code Quiz
+# Web APIs: Code Quiz
 
-## User Story
+I want to be able to take a timed quiz on JavaScript fundamentals that keeps the high scores on record so that I can see my progress compared to my peers
 
-```
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-```
+## Getting Started
+Click on the deployed link below. Press start quiz and answer the questions. High scores will be recorded and shown at the end. 
 
-## Code Quiz Link
+## Built With
+- JavaScript
+- HTML
+- CSS
+
+## Author
+Karina W.
+
+## Deployed Link
 https://williamskarina.github.io/javascriptcodequiz/
 
 
